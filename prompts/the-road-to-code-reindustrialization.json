@@ -1,0 +1,18 @@
+{
+  "slug": "the-road-to-code-reindustrialization",
+  "translations": {
+    "en": {
+      "title": "The road to code reindustrialization in Europe",
+	"description": "An article, from a software developer’s perspective, on the opportunity offered by AI to reindustrialize coding activities in Europe",
+      "prompt": "Write a sharp and optimistic article, from a software developer’s perspective, on the opportunity offered by AI to reindustrialize coding activities that have been offshored from so-called ''industrialized'' Western European countries to countries where labor is cheaper."
+    },
+    "fr": {
+      "title": "L'Idée à un Million de Dollars",
+	"description": "Un article, du point de vu d'un développeur logiciel, sur l'opportunité offerte par l'IA de réindustrialiser les activités de codage en Europe.",
+      "prompt": "Écris un article tranché et optimiste, du point de vu d'un développeur logiciel, sur l'opportunité offerte par l'IA de réindustrialiser les activités de codage qui ont été délocalisées hors des pays européens dits 'industrialisés' dans des pays où la main d'oeuvre est moins chère."
+    }
+  },
+  "tags": ["AI coding", "opinion"],
+  "author": "Leo Sartre",
+  "date": "2026-04-16"
+}

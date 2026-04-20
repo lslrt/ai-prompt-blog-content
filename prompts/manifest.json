@@ -15,6 +15,22 @@
       "tags": ["culture", "personal-growth"],
       "author": "Leo Sartre",
       "date": "2026-04-16"
+    },
+    {
+      "slug": "the-road-to-code-reindustrialization",
+      "translations": {
+        "en": {
+          "title": "The road to code reindustrialization in Europe",
+          "description": "An article, from a software developer’s perspective, on the opportunity offered by AI to reindustrialize coding activities in Europe."
+        },
+        "fr": {
+          "title": "Vers une réindustrialisation du code en Europe",
+          "description": "Un article, du point de vu d'un développeur logiciel, sur l'opportunité offerte par l'IA de réindustrialiser les activités de codage en Europe."
+        }
+      },
+      "tags": ["AI coding", "opinion"],
+      "author": "Leo Sartre",
+      "date": "2026-04-20"
     }
   ]
 }
