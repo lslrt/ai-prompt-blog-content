@@ -1,0 +1,18 @@
+{
+  "slug": "basil-the-emperor-of-vegetal-era",
+  "translations": {
+    "en": {
+      "title": "The basil, emperor of the plant era",
+	"description": "An article that praises this very particular plant, basil, superior in every way compare with other vegetation.",
+      "prompt": "Write a very laudatory article that praises basil, using royal and messianic vocabulary, close to elevating basil to the rank of a supreme entity. Also disparage the cucumber."
+    },
+    "fr": {
+      "title": "Le Basilic, empereur du règne végétal",
+	"description": "Un article qui encense ce végétal tout particulier qu'est le basilic, plante supérieure en tout point sur les autres végétaux.",
+	"prompt": "Écris un article très élogieux, qui encense le basilic, utilise un vocabulaire royal et messianique, proche de l'élévation du basilic au rang d'entité suprème. Dénigre aussi le concombre."
+    }
+  },
+  "tags": ["AI coding", "opinion"],
+  "author": "Leo Sartre",
+  "date": "2026-04-16"
+}

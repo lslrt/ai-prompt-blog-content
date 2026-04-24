@@ -31,6 +31,23 @@
       "tags": ["AI coding", "opinion"],
       "author": "Leo Sartre",
       "date": "2026-04-20"
+    },
+    {
+      "slug": "basil-the-emperor-of-vegetal-era",
+      "translations": {
+        "en": {
+          "title": "The basil, emperor of the plant era",
+          "description": "An article that praises this very particular plant, basil, superior in every way compare with other vegetation."
+        },
+        "fr": {
+            "title": "Le Basilic, empereur du règne végétal",
+            "description": "Un article qui encense ce végétal tout particulier qu'est le basilic, plante supérieure en tout point sur les autres végétaux."
+        }
+      },
+	"tags": ["botanic", "nature", "opinion"],
+      "author": "Leo Sartre",
+      "date": "2026-04-24"
     }
+
   ]
 }
