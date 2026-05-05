@@ -47,7 +47,22 @@
 	"tags": ["botanic", "nature", "opinion"],
       "author": "Leo Sartre",
       "date": "2026-04-24"
+    },
+    {
+	"slug": "dizzying-introspection",
+	"translations": {
+	    "en": {
+		"title": "Dizzying introspection",
+		"description": "A reflection on a human being's personal identity."
+	    },
+	    "fr": {
+		"title": "Observation vertigineuse de soi",
+		"description": "Une réflexion sur l'identité personnelle d'un humain."
+	    }
+	},
+	"tags": ["thinking", "philosophy"],
+	"author": "Leo Sartre",
+	"date": "2026-05-05"
     }
-
   ]
 }

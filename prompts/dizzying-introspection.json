@@ -1,0 +1,18 @@
+{
+  "slug": "dizzying-introspection",
+  "translations": {
+    "en": {
+	"title": "Dizzying introspection",
+	"description": "A reflection on a human being's personal identity.",
+	"prompt": "Write a reflection on a human being's personal identity, particularly on the difference between the perception one forms of oneself and the perceptions that others may have from the outside. Begin with the experience of looking deeply and for a long time into a mirror, or of calling oneself by one's own first name as if one were someone else, external to one's own body."
+    },
+    "fr": {
+      "title": "Observation vertigineuse de soi",
+	"description": "Une réflexion sur l'identité personnelle d'un humain.",
+	"prompt": "Écris une réflexion sur l'identité personnelle d'un humain, notamment sur la différence de perception que l'on se forge de soi-même par rapport à celles que peuvent avoir des personnes extérieures. Pars de l'expérience de se regarder profondément et longtemps dans un miroir, ou bien de s'appeler soi-même par son prénom comme si l'on était quelqu'un d'autre, extérieur à son propre corps."
+    }
+  },
+  "tags": ["thinking", "philosophy"],
+  "author": "Leo Sartre",
+  "date": "2026-05-05"
+}
