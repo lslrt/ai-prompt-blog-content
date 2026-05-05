@@ -1,36 +1,20 @@
 {
   "prompts": [
     {
-      "slug": "the-million-dollar-idea",
-      "translations": {
-        "en": {
-          "title": "The Million Dollar Idea",
-          "description": "A meditation on how to not become rich by losing time thinking about what could make you rich."
-        },
-        "fr": {
-          "title": "L'Idée à un Million de Dollars",
-          "description": "Une méditation sur la façon dont on s'appauvrit en passant son temps à chercher comment s'enrichir."
-        }
-      },
-      "tags": ["culture", "personal-growth"],
-      "author": "Leo Sartre",
-      "date": "2026-04-16"
-    },
-    {
-      "slug": "the-road-to-code-reindustrialization",
-      "translations": {
-        "en": {
-          "title": "The road to code reindustrialization in Europe",
-          "description": "An article, from a software developer’s perspective, on the opportunity offered by AI to reindustrialize coding activities in Europe."
-        },
-        "fr": {
-          "title": "Vers une réindustrialisation du code en Europe",
-          "description": "Un article, du point de vu d'un développeur logiciel, sur l'opportunité offerte par l'IA de réindustrialiser les activités de codage en Europe."
-        }
-      },
-      "tags": ["AI coding", "opinion"],
-      "author": "Leo Sartre",
-      "date": "2026-04-20"
+	"slug": "dizzying-introspection",
+	"translations": {
+	    "en": {
+		"title": "Dizzying introspection",
+		"description": "A reflection on a human being's personal identity."
+	    },
+	    "fr": {
+		"title": "Observation vertigineuse de soi",
+		"description": "Une réflexion sur l'identité personnelle d'un humain."
+	    }
+	},
+	"tags": ["thinking", "philosophy"],
+	"author": "Leo Sartre",
+	"date": "2026-05-05"
     },
     {
       "slug": "basil-the-emperor-of-vegetal-era",
@@ -49,20 +33,36 @@
       "date": "2026-04-24"
     },
     {
-	"slug": "dizzying-introspection",
-	"translations": {
-	    "en": {
-		"title": "Dizzying introspection",
-		"description": "A reflection on a human being's personal identity."
-	    },
-	    "fr": {
-		"title": "Observation vertigineuse de soi",
-		"description": "Une réflexion sur l'identité personnelle d'un humain."
-	    }
-	},
-	"tags": ["thinking", "philosophy"],
-	"author": "Leo Sartre",
-	"date": "2026-05-05"
+      "slug": "the-road-to-code-reindustrialization",
+      "translations": {
+        "en": {
+          "title": "The road to code reindustrialization in Europe",
+          "description": "An article, from a software developer’s perspective, on the opportunity offered by AI to reindustrialize coding activities in Europe."
+        },
+        "fr": {
+          "title": "Vers une réindustrialisation du code en Europe",
+          "description": "Un article, du point de vu d'un développeur logiciel, sur l'opportunité offerte par l'IA de réindustrialiser les activités de codage en Europe."
+        }
+      },
+      "tags": ["AI coding", "opinion"],
+      "author": "Leo Sartre",
+      "date": "2026-04-20"
+    },
+    {
+      "slug": "the-million-dollar-idea",
+      "translations": {
+        "en": {
+          "title": "The Million Dollar Idea",
+          "description": "A meditation on how to not become rich by losing time thinking about what could make you rich."
+        },
+        "fr": {
+          "title": "L'Idée à un Million de Dollars",
+          "description": "Une méditation sur la façon dont on s'appauvrit en passant son temps à chercher comment s'enrichir."
+        }
+      },
+      "tags": ["culture", "personal-growth"],
+      "author": "Leo Sartre",
+      "date": "2026-04-16"
     }
   ]
 }
